@@ -57,7 +57,7 @@ Full DAX is documented inline in the `.pbix` file.
 ## Files in this repo
 
 - `CityOfAustinStreetWorkOrders.pbix` - the Power BI file
-- `Street_Sign_Work_Orders_Documentation.docx` - two-page write-up covering findings, metric definitions, and known limitations
+- `Street_Sign_Work_Orders_Documentation.pdf` - two-page write-up covering findings, metric definitions, and known limitations
 - `Dashboard.png` - static preview of the dashboard
 
 ## Possible next steps
